@@ -9,7 +9,7 @@
 
 <h3 align="left">Veja um pouco mais sobre mim:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/herminio rocha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="herminio rocha" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/herminio-rocha-9325a2137/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="herminio-rocha-9325a2137" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
