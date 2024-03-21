@@ -1,31 +1,32 @@
-### 👋 Hi, I’m @herminio-rocha
+<h1 align="center">Oi 👋, Eu sou Herminio Rocha</h1>
+<h3 align="center">Entusiasta de Tecnologia e Desenvolvedor de Software Apaixonado por Inovação</h3>
 
-### 👀 I’m interested in...
-- Desenvolvimento de Software, especialmente tecnologias como como Java, Flutter, NestJs e Python.
-- Análise de Sistemas para otimização de processos e criação de soluções eficientes.
-- Engenharia da Computação, explorando conceitos avançados em sistemas embarcados e inteligência artificial.
-- Tecnologias emergentes e tendências da indústria, e Internet das Coisas (IoT) com Node-RED.
-- Containers, Shell Scripting e Linux para automação e implantação de aplicações.
+- 🌱 Atualmente estou aprendendo **Python e Visão Computacional e aprofundando meus conhecimentos em Oracle, PL SQL Angular e Wordpress**
 
-### 🌱 I’m currently learning...
-- Aprofundando meus conhecimentos em Oracle, PL SQL Angular e Wordpress para desenvolvimento web.
-- Explorando novas técnicas em PHP para criação de aplicações robustas e escaláveis.
+- 💞️ Procuro por Projetos que buscam soluções inovadoras e tecnologias disruptivas
 
-### 💞️ I’m looking to collaborate on...
-- Projetos de desenvolvimento de software desafiadores que buscam soluções inovadoras.
-- Parcerias em pesquisa e desenvolvimento de tecnologias disruptivas.
-- Projetos freelancer que necessitam de expertise em desenvolvimento de software.
+- 📫 Você me encontra através do e-mail **herminio.rocha@outlook.com.br**
 
-### 📫 How to reach me...
-- LinkedIn: [herminio-rocha](https://www.linkedin.com/in/herminio-rocha-9325a2137/)
+<h3 align="left">Veja um pouco mais sobre mim:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/herminio rocha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="herminio rocha" height="30" width="40" /></a>
+</p>
 
-### 😄 Pronouns:
-- Ele/Dele
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+  <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a>
+  <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a>
+  <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a>
 
-### ⚡ Fun fact:
-- Além de ser um entusiasta da tecnologia, também sou um grande fã de quebra-cabeças e enigmas, e adoro passar meu tempo livre resolvendo desafios mentais!
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
+  <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+  <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> 
+  
+   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
+   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
+   <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> 
+   </p>
 
-<!---
-herminio-rocha/herminio-rocha é um repositório ✨ especial ✨ porque seu `README.md` (este arquivo) aparece em seu perfil GitHub.
-Você pode clicar no link de visualização para dar uma olhada em suas alterações.
---->
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=herminio-rocha&show_icons=true&locale=en&layout=compact" alt="herminio-rocha" /></p>
